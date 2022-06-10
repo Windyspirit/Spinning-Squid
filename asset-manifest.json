@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Spinning-Squid/static/css/main.8bbedf48.css",
+    "main.js": "/Spinning-Squid/static/js/main.e635cfe2.js",
+    "static/media/1.jpg": "/Spinning-Squid/static/media/1.9707f81326aeaeef2615.jpg",
+    "static/media/2.jpg": "/Spinning-Squid/static/media/2.2edfa0ca6ab5df2d7f0b.jpg",
+    "static/media/logo-hover-5.png": "/Spinning-Squid/static/media/logo-hover-5.03105d6ed2497ce3501b.png",
+    "static/media/Skateparktest.jpg": "/Spinning-Squid/static/media/Skateparktest.c15a072a04a16a18c699.jpg",
+    "static/media/logo-hover.png": "/Spinning-Squid/static/media/logo-hover.876d871fe71a84a903d5.png",
+    "static/media/logo-blanc.png": "/Spinning-Squid/static/media/logo-blanc.eadbcd56b8dd1c284396.png",
+    "static/media/logo1.png": "/Spinning-Squid/static/media/logo1.cbfc976682302459678a.png",
+    "static/media/3.jpg": "/Spinning-Squid/static/media/3.2e62e6ad600e1c9bc0fc.jpg",
+    "static/media/home.jpg": "/Spinning-Squid/static/media/home.0b4b5a77f2c91a95c484.jpg",
+    "static/media/logo404.png": "/Spinning-Squid/static/media/logo404.f5376764c02ce8f64e3f.png",
+    "static/media/lucas.png": "/Spinning-Squid/static/media/lucas.92e7f7e74f692773ce7a.png",
+    "static/media/romain.png": "/Spinning-Squid/static/media/romain.cee7e46f02670fe39b19.png",
+    "static/media/geoffrey.png": "/Spinning-Squid/static/media/geoffrey.d54bf79b3741dde008a4.png",
+    "static/media/thomas.png": "/Spinning-Squid/static/media/thomas.f5e78d1d4512173fb8fc.png",
+    "static/media/clara.png": "/Spinning-Squid/static/media/clara.7061b8c46c13a3c96e1d.png",
+    "static/media/logo2.png": "/Spinning-Squid/static/media/logo2.964623eac742e72d3acc.png",
+    "index.html": "/Spinning-Squid/index.html",
+    "main.8bbedf48.css.map": "/Spinning-Squid/static/css/main.8bbedf48.css.map",
+    "main.e635cfe2.js.map": "/Spinning-Squid/static/js/main.e635cfe2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bbedf48.css",
+    "static/js/main.e635cfe2.js"
+  ]
+}
