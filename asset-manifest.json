@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Spinning-Squid/static/css/main.d378bb1b.css",
-    "main.js": "/Spinning-Squid/static/js/main.af0d8117.js",
+    "main.js": "/Spinning-Squid/static/js/main.0df1b0f1.js",
     "static/media/1.jpg": "/Spinning-Squid/static/media/1.9707f81326aeaeef2615.jpg",
     "static/media/2.jpg": "/Spinning-Squid/static/media/2.2edfa0ca6ab5df2d7f0b.jpg",
     "static/media/logo-hover-5.png": "/Spinning-Squid/static/media/logo-hover-5.03105d6ed2497ce3501b.png",
@@ -20,10 +20,10 @@
     "static/media/logo2.png": "/Spinning-Squid/static/media/logo2.964623eac742e72d3acc.png",
     "index.html": "/Spinning-Squid/index.html",
     "main.d378bb1b.css.map": "/Spinning-Squid/static/css/main.d378bb1b.css.map",
-    "main.af0d8117.js.map": "/Spinning-Squid/static/js/main.af0d8117.js.map"
+    "main.0df1b0f1.js.map": "/Spinning-Squid/static/js/main.0df1b0f1.js.map"
   },
   "entrypoints": [
     "static/css/main.d378bb1b.css",
-    "static/js/main.af0d8117.js"
+    "static/js/main.0df1b0f1.js"
   ]
 }
